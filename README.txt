@@ -1,0 +1,5 @@
+- Console Application just can be ran directly
+- It will populate all the required information when ran
+- Assumptions made
+	- Return is difference between close price of last day minus open price of forst day within the time interval
+	- As mentioned in the problem tried to use only TIME_SERIES_DAILY end point to get the data even though more simplified apis are present in the documentation.
